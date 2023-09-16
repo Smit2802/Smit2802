@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Smit</h1>
-- 📫 How to reach me **smitp2802@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
